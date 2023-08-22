@@ -37,7 +37,7 @@ body {
 
 #container {
     width: 100%;
-    max-width: 588px;
+    max-width: 768px;
     margin: 56px auto 0;
     padding: 0 24px;
 }
@@ -180,8 +180,8 @@ footer {
 }
 
 /*responsividade*/
-@media (max-widht: 768px){
-   body {
-    background: var(--bg-mobile) no-repeat cover;
-   }
+@media (max-width: 720px){
+    body {
+        background: var(--bg-mobile) no-repeat top center/cover;
+    }
 }
