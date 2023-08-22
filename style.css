@@ -180,8 +180,8 @@ footer {
 }
 
 /*responsividade*/
-@media (max-widht: 540px){
+@media (max-widht: 360px){
    body {
-    background: var(--bg-mobile) no-repeat top center/cover;
+    background: var(--bg-mobile) no-repeat cover;
    }
 }
