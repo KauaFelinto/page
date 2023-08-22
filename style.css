@@ -10,6 +10,7 @@
 /*variaveis color */
 :root {
     --text-color: white;
+    --bg-mobile: url(img/bg-mobile.jpg);
     --bg-url: url(img/bg-desktop.jpg);
     --strock-color:  rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
@@ -20,6 +21,7 @@
 
 .light {
     --text-color: black;
+    --bg-mobile: url(img/bg-mobile-light.jpg);
     --bg-url: url(img/bg-desktop-light.jpg);
     --strock-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(255, 255, 255, 0.5);
@@ -175,4 +177,11 @@ footer {
     to {
         left: 0;
     }
+}
+
+/*responsividade*/
+@media (max-widht: 540px){
+   body {
+    background: var(--bg-mobile) no-repeat top center/cover;
+   }
 }
