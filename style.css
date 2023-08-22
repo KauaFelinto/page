@@ -180,8 +180,16 @@ footer {
 }
 
 /*responsividade*/
+<<<<<<< HEAD
 @media (max-width: 720px){
     body {
         background: var(--bg-mobile) no-repeat top center/cover;
     }
 }
+=======
+@media (max-widht: 768px){
+   body {
+    background: var(--bg-mobile) no-repeat cover;
+   }
+}
+>>>>>>> 2b56825386918bae76828c583642b5ed135584a5
