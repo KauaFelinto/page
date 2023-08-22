@@ -13,6 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
+<<<<<<< HEAD
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -23,6 +24,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+=======
+<br>
+
+>>>>>>> d3c4e1c70d25d58277586786545e04bfcad531c7
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -50,4 +55,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> d3c4e1c70d25d58277586786545e04bfcad531c7
