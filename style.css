@@ -182,10 +182,6 @@ footer {
 /*responsividade*/
 @media (max-width: 720px){
     body {
-        background: var(--bg-mobile) no-repeat top center/cover;
+        background: var(--bg-mobile) no-repeat center/cover;
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 145b044448fd306cb08a6a9b288f3431ea1581d7
