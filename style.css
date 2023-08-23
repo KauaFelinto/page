@@ -31,7 +31,7 @@
 }
 
 body {
-    background:  var(--bg-url) no-repeat top center/cover;
+    background:  var(--bg-url) no-repeat center/cover;
     transition: 2.2s;
 }
 
@@ -180,8 +180,11 @@ footer {
 }
 
 /*responsividade*/
-@media (max-width: 720px){
+@media (max-width: 488px){
     body {
         background: var(--bg-mobile) no-repeat center/cover;
     }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> c1e91e2eae983f88bbee5f96966c026c9b6440c2
